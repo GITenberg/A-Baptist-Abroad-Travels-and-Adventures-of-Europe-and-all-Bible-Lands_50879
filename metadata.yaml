@@ -1,10 +1,16 @@
 _repo: A-Baptist-Abroad-Travels-and-Adventures-of-Europe-and-all-Bible-Lands_50879
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50879-h/images/cover.jpg
 creator:
   author:
     agent_name: Whittle, Walter Andrew
     gutenberg_agent_id: '46123'
     url: http://www.gutenberg.org/2009/agents/46123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50879#A-Baptist-Abroad-Travels-and-Adventures-of-Europe-and-all-Bible-Lands
 gutenberg_issued: '2016-01-09'
 gutenberg_type: Text
 identifiers:
